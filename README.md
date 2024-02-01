@@ -33,6 +33,8 @@
 <img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,express,django,md,solidity,postgres,mongo,git,vscode,docker,aws,postman,supabase,linux&perline=10"  />
 </p>
 <br />
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukprabhakar&show_icons=true&locale=en&layout=compact" alt="mukprabhakar" /></p>
+<br/>
 
 
 <!--Trophies Section-->   
