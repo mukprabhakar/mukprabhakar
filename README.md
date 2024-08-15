@@ -126,6 +126,13 @@
 
 ---
 
+
+## 🌟 **Let's Collaborate!**
+
+> Actively seeking exciting opportunities to contribute to meaningful projects and collaborate with passionate developers. Feel free to explore my work here on GitHub, and let's connect on [LinkedIn](https://www.linkedin.com/in/mukprabhakar/) or [X (Twitter)](https://twitter.com/mukprabhakar) to discuss potential collaborations!
+>
+> Looking forward to making impactful contributions together! 😊✨
+
 <!--Dynamic Quote card updated everyday at 12 PM--> 
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
 
