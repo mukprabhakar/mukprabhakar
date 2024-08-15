@@ -42,6 +42,22 @@
   <img src="https://skillicons.dev/icons?i=java,js,html,css,postgres,mongo,git,vscode,docker,aws,postman,spring,postgresql,mysql,intellij,eclipse,kubernetes&perline=8" alt="Languages and Tools" width="600px" />
 </p>
 
+##
+
+> **Backend & Databases**
+>
+> <p align="left"><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a></p>
+>
+> <p align="left"><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a></p>
+>
+> <P align="left"><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://supabase.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" width="36" height="36" alt="Supabase" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a></p>
+
+> `Redis`, `RabbitMQ`, `Elasticsearch`, `MySQL`, `MongoDB`, `SQLite`, `Supabase`, `Firebase`, `PostgreSQL`, `Prisma`, `Sequelize`, `TypeORM`, `Knex.js`, `REST APIs`, `WebSockets`, `OAuth`, `AWS`, `GCP`, `Azure`, `Docker`, `Kubernetes`, `CI/CD`, `GitHub Actions`, `Jenkins`, `TravisCI`, `Vercel`, `Netlify`, `Heroku`, `Railway`, `Render`
+
+
+
+
+
 <p align="center">
   <!-- GitHub Stats for Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mukprabhakar&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="Top Languages by Mukesh" />
