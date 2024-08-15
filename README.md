@@ -28,13 +28,17 @@
 <br />
 
 <!--Languages and Tools Section-->       
-<h2 align="center">Lᴀɴɢᴜᴀɢᴇs ᴀɴᴅ Tᴏᴏʟs</h2> 
+<h2 align="center">Languages and Tools</h2>
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=py,java,js,html,css,react,nodejs,express,django,md,solidity,postgres,mongo,git,vscode,docker,aws,postman,supabase,linux&perline=10"  />
+  <!-- Tools Icons -->
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,postgres,mongo,git,vscode,docker,aws,postman,spring,postgresql,mysql,intellij,eclipse,kubernetes&perline=8" alt="Languages and Tools" width="600px" />
 </p>
-<br />
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukprabhakar&show_icons=true&locale=en&layout=compact" alt="mukprabhakar" /></p>
-<br/>
+
+<p align="center">
+  <!-- GitHub Stats for Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mukprabhakar&show_icons=true&locale=en&layout=compact&theme=nightowl" alt="Top Languages by Mukesh" />
+</p>
+
 
 
 <!--Trophies Section-->   
