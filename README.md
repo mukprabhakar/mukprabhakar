@@ -15,18 +15,46 @@
 </div>
 
 <!--Header Name-->
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> ɪ'ᴍ MUKESH! 
-*Digital Craftsman (Developer / Programmer)*
-<br /> 
+<h1 align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi, I'm Mukesh Pal!
+</h1>
 
-<!--Start Intro-->               
-<p align="left">Passionate about technology and computers, I've chosen to study computer science with a keen interest in artificial intelligence and software development. My goal is to build a solid foundation in this field and contribute to innovative technological solutions in the future. </p>
+<h3 align="center">🚀 Spring Boot Developer | Tech Enthusiast | Open-Source Contributor | Community Leader</h3>
 
-- ✨ Student of life :)
-- 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
-- ❤ Contributing to Open Source.
-- 📫 How to reach me: https://linktr.ee/mukprabhakar
-<!--End Intro-->
+<!--Start Intro-->
+<p align="left">
+  I’m a <strong>B.Tech CSE 3rd Year Student</strong> at <strong>IIMT University</strong>, passionate about building scalable backend solutions, exploring emerging technologies, and contributing to open-source communities.
+</p>
+
+<h2>💻 What I Work On:</h2>
+<ul>
+  <li><strong>Spring Boot & Java:</strong> Crafting efficient, high-performance applications.</li>
+  <li><strong>AI & Robotics:</strong> Developing an <em>Automated Pest Control System</em> for sustainable agriculture.</li>
+  <li><strong>Chatbots & Data Solutions:</strong> Building AI-driven platforms for real-time data insights.</li>
+  <li><strong>AR/VR & Smart Tech:</strong> Innovating with immersive technologies to enhance digital experiences.</li>
+</ul>
+
+<h2>🎯 Key Roles & Achievements:</h2>
+<ul>
+  <li><strong>President, E-Cell IIMTU:</strong> Driving innovation and entrepreneurship.</li>
+  <li><strong>Beta MLSA:</strong> Supporting the Microsoft Learn Student Ambassador community.</li>
+  <li><strong>Coding Ninjas Captain:</strong> Mentoring peers in competitive programming.</li>
+  <li><strong>Hackathon Organizer & Speaker:</strong> Conducting coding challenges and leadership events.</li>
+</ul>
+
+<h2>📌 Let’s Collaborate!</h2>
+<p align="left">
+  I'm always open to exciting projects, open-source contributions, and tech discussions. Let’s build something amazing together!
+</p>
+
+<h2>📫 Reach Me At:</h2>
+<ul>
+  <li>📧 <strong>Email:</strong> mukesh.mmp1234@gmail.com</li>
+  <li>🔗 <strong><a href="https://www.linkedin.com/in/mukprabhakar">LinkedIn</a> | <a href="https://github.com/mukprabhakar">GitHub</a> | <a href="https://linktr.ee/mukprabhakar">Portfolio</a></strong></li>
+</ul>
+
+<h3 align="center">⚡ “Building solutions that make an impact!”</h3>
+
 
 <!--Profile Count Badge-->
 <p align="left">
