@@ -94,11 +94,54 @@
 
 
 
+<!--Languages and Tools Section-->       
+<h2 align="center">Tᴇᴄʜ Sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ Bʟᴏɢs</h2> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
+  <source media="(prefers-color-scheme: light)" srcset="./Skills_Animation_White.gif">
+  <img align="left" alt="Skills Animation" src="./Skills_Animation_White.gif">
+</picture>
+<br />
+
+<h3 align="left">📌 Current Learning</h3>
+<ul align="left">
+  <li>Mastering <b>Apache Kafka</b> for real-time data streaming.</li>
+  <li>Deep diving into <b>Spring Boot</b> (Microservices, WebSockets, and Security).</li>
+  <li>Exploring <b>AI & Robotics</b> for smart automation.</li>
+  <li>Enhancing <b>AR/VR</b> implementation for immersive experiences.</li>
+  <li>Building scalable cloud applications with <b>AWS & Azure</b>.</li>
+</ul>
+  
+<h3 align="left">📝 Latest Blog Posts</h3>
+<ul align="left">
+  <li><a href="https://yourblog.com/apache-kafka-guide">🚀 A Beginner’s Guide to Apache Kafka</a></li>
+  <li><a href="https://yourblog.com/spring-boot-websockets">💡 Real-time Communication with Spring Boot & WebSockets</a></li>
+  <li><a href="https://yourblog.com/ai-in-agriculture">🌾 How AI & Robotics Are Revolutionizing Agriculture</a></li>
+</ul>
+
+<br />
+<br />
+<br />
+<br />
+
+
 <!--Trophies Section-->   
 <h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
 <p align="center">
-  <a href="https://github.com/mukprabhakar/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mukprabhakar&row=2&column=6&margin-w=20&margin-h=20" alt="GitHub Trophies">
+  <a href="https://github.com/mukprabhakar">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=mukprabhakar&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=mukprabhakar&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=mukprabhakar&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+    </picture>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/daytonaio/daytona">
+    <img
+      src="https://api.vaunt.dev/v1/github/entities/mukprabhakar/achievements?format=svg&limit=6"
+      width="400"
+    />
   </a>
 </p>
 <br />
@@ -109,36 +152,36 @@
 <table width="100%">
   <tr>
     <td width="50%">
-      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
-      <p align="center">
-        <a href="https://github.com/mukprabhakar">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=mukprabhakar&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=nightowl" alt="GitHub Stats" />
-        </a>
-      </p>
-    </td>
+  <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+  <p align="center">
+    <a href="https://github.com/mukprabhakar">
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=mukprabhakar&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=nightowl&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="GitHub Stats" />
+    </a>
+  </p>
+</td>
     <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/mukprabhakar">
-          <img align="center" src="https://streak-stats.demolab.com?user=mukprabhakar&theme=nightowl" alt="Streak Stats" />
+          <img align="center" src="https://streak-stats.demolab.com?user=mukprabhakar&theme=nightowl&background=0,000000,441350&fire=ffeb95&ring=ffeb95&sideNums=ffffff&sideLabels=ffffff&dates=c56a90&currStreakNum=ffffff" alt="Streak Stats" />
         </a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%">
-  <h3 align="center"><strong>Latest Project</strong></h3>
-  <p align="center">
-    <a href="https://github.com/mukprabhakar/Trading-platform">
-      <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=mukprabhakar&repo=Trading-platform&theme=nightowl&show_owner=true" alt="Trading Platform" />
-    </a>
-  </p>
-</td>
+      <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
+      <p align="center">
+        <a href="https://github.com/mukprabhakar/Awesome-Dev-Portfolios">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=mukprabhakar&repo=Awesome-Dev-Portfolios&theme=nightowl&show_owner=true&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Awesome-Dev-Portfolios" />
+        </a>
+      </p>
+    </td>
     <td width="50%">
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
         <a href="https://github.com/mukprabhakar">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=mukprabhakar&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=mukprabhakar&limit=2&theme=nightowl&show_owner=true&combine_all_yearly_contributions=false&bg_color=0,000000,441350&title_color=c56a90&text_color=ffffff" alt="Top Repo" />
         </a>
       </p>
     </td>
@@ -146,14 +189,12 @@
 </table>
 <br />
 
-
 <!--Contribution Graph-->
 <h2 align="center">📈 Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈</h2>
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mukprabhakar&bg_color=011627&color=79d3c3&line=c792ea&point=ffeb95&area=true&hide_border=false" border-radius="15">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mukprabhakar&bg_color=220a28&&color=ffffff&line=c56a90&point=ffeb95&area=false&hide_border=false" border-radius="15">
 </div>
 
----
 
 
 ## 🌟 **Let's Collaborate!**
