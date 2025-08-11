@@ -23,7 +23,7 @@
 
 <!--Start Intro-->
 <p align="left">
-  I’m a <strong>B.Tech CSE 3rd Year Student</strong> at <strong>IIMT University</strong>, passionate about building scalable backend solutions, exploring emerging technologies, and contributing to open-source communities.
+  I’m a <strong>B.Tech CSE 4th Year Student</strong> at <strong>IIMT University</strong>, passionate about building scalable backend solutions, exploring emerging technologies, and contributing to open-source communities.
 </p>
 
 <h2>💻 What I Work On:</h2>
